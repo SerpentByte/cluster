@@ -1,2 +1,2 @@
-kubeadm join 10.10.10.186:6443 --token 7114x9.lm0lgkurjzt1586j\
---discovery-token-ca-cert-has sha256:b466e4557b088012690b81b0bcdf30722dc8a15f0d6f5d238658db3f0502345a
+kubeadm join 10.10.10.200:6443 --token ep513w.jjfk8fpblkigjitk\
+--discovery-toekn-ca-cert-hash sha256:b3ba9032f104215f1c7d848e436564437ae7dfc416434301f1d7334d71c6ef1d
