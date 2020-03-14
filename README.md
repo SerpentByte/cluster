@@ -1,2 +1,2 @@
-# trial
-this is a trial folder
+# cluster
+contains bash scripts for easy cluster setup.
